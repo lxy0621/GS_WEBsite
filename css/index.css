@@ -1,0 +1,218 @@
+.navbar {
+  margin-bottom: 0;
+  padding: 0 15px;
+  border: none;
+  background: #ffffff;
+}
+.navbar .container {
+  box-sizing: border-box;
+  padding: 15px;
+  border: none;
+}
+.navbar .container .navbar-brand {
+  padding: 0;
+  padding-left: 12px;
+}
+.navbar .container .navbar-brand img {
+  display: block;
+  height: 48px;
+  width: auto;
+}
+.navbar .container .collapse ul li a {
+  color: #000000;
+}
+.banner {
+  padding: 0;
+  margin: 0;
+  margin-top: 80px;
+}
+.title .common-title {
+  padding-top: 20px;
+}
+.title .common-detail {
+  color: #888888;
+}
+.title .into-content .icon-list {
+  padding: 20px;
+  box-sizing: border-box;
+}
+.title .into-content .icon-list img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.title .into-content .into-title {
+  font-size: 14px;
+  color: #000000;
+  font-weight: 500;
+  line-height: 24px;
+}
+.title .into-content .into-detail {
+  font-size: 14px;
+  color: #888888;
+  line-height: 24px;
+}
+.title .more-btn {
+  display: block;
+  width: 160px;
+  height: 40px;
+  border: 2px solid #000000;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 40px;
+}
+.product {
+  margin-top: 60px;
+  background: url(../images/case_bg.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding: 60px 0;
+}
+.product .product-title {
+  position: relative;
+}
+.product .product-title .line {
+  background: url(../images/line.png);
+  background-repeat: no-repeat;
+  background-size: initial;
+  padding: 32px 0;
+}
+.product .product-title .line h1:nth-child(1) {
+  color: #f9ce03;
+}
+.product .product-title .line h1:nth-child(2) {
+  margin-bottom: 44px;
+  color: #ffffff;
+}
+.product .product-title p {
+  line-height: 36px;
+  color: #fff;
+}
+.product .product-title span {
+  display: block;
+  width: 100px;
+  height: 2px;
+  background-color: #f9ce03;
+  margin-top: 20px;
+}
+.product .product-detail {
+  background-color: #fff;
+  padding: 24px;
+}
+.product .product-detail .row div h4 {
+  margin: 12px 0;
+}
+.product .product-detail .row div span {
+  display: block;
+  width: 120px;
+  height: 2px;
+  background-color: #f9ce03;
+  margin-bottom: 20px;
+}
+.product .product-detail .row div p {
+  margin-bottom: 32px;
+}
+.case {
+  margin-top: 40px;
+}
+.case .case-title {
+  margin-bottom: 40px;
+}
+.case .row div {
+  margin: 0;
+  padding: 0;
+}
+.case .row div img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.news {
+  margin-top: 60px;
+  background: url(../images/news_bg.jpg);
+  padding-top: 40px;
+}
+.news .news-title {
+  color: #ffffff;
+  margin-bottom: 40px;
+}
+.news .container {
+  background: #ffffff;
+  padding: 10px 24px 30px 24px;
+  box-sizing: border-box;
+  box-shadow: 5px 10px 10px #e0dfdf;
+}
+.news .container .ano_news {
+  border-top: 1px solid #ebebeb;
+  line-height: 32px;
+}
+.news .container .ano_news:first-child {
+  border-top: none;
+}
+.news .container .row div {
+  margin: 0;
+  padding: 0;
+}
+.news .container .row div img {
+  display: block;
+  width: calc(100% - 30px);
+  height: auto;
+  margin: 15px;
+  box-sizing: border-box;
+}
+.news .container .row .title-news {
+  padding: 15px;
+  box-sizing: border-box;
+  line-height: 32px;
+}
+.news .container .row .title-news .time {
+  color: #888888;
+  font-size: 14px;
+  margin: 20px 0;
+}
+.news .container .row .title-news span {
+  display: block;
+  border: 2px solid #f9ce03;
+  width: 120px;
+  height: 40px;
+  color: #f9ce03;
+  text-align: center;
+  line-height: 40px;
+  margin-top: 40px;
+  cursor: pointer;
+}
+.news .container .row .lk_more {
+  display: block;
+  border: 2px solid #f9ce03;
+  width: 160px;
+  height: 40px;
+  line-height: 40px;
+  color: #f9ce03;
+  text-align: center;
+  margin: 0 auto;
+  cursor: pointer;
+}
+.footer {
+  background: url(../images/footer.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  box-sizing: border-box;
+  margin-top: 40px;
+}
+.footer .container {
+  padding: 40px 0;
+}
+.footer .container h1 {
+  color: #ccc;
+  margin-bottom: 12px;
+}
+.footer .container p {
+  color: #ccc;
+}
+.footer .container p span {
+  padding-right: 10px;
+}
+.footer .container .contact {
+  margin: 36px 0;
+}

@@ -1,0 +1,177 @@
+.navbar {
+  margin-bottom: 0;
+  padding: 0 15px;
+  border: none;
+  background: #ffffff;
+}
+.navbar .container {
+  box-sizing: border-box;
+  padding: 15px;
+  border: none;
+}
+.navbar .container .navbar-brand {
+  padding: 0;
+  padding-left: 12px;
+}
+.navbar .container .navbar-brand img {
+  display: block;
+  height: 48px;
+  width: auto;
+}
+.navbar .container .collapse ul li a {
+  color: #000000;
+}
+.banner {
+  background: url(../images/about_us.jpg) center center no-repeat;
+  padding: 0;
+  margin: 0;
+  margin-top: 80px;
+}
+.banner .container {
+  height: 440px;
+  box-sizing: border-box;
+  padding: 120px 0;
+}
+.banner .container p {
+  color: #fff;
+  margin: 0;
+}
+.banner .container .content {
+  margin-top: 36px;
+  font-size: 36px;
+  letter-spacing: 12px;
+  color: #f9ce03;
+  display: block;
+  border: 1px solid #f9ce03;
+}
+.banner .container .name {
+  letter-spacing: 6px;
+  margin-top: 12px;
+}
+.banner .container h1 {
+  color: #ffffff;
+  margin: 0;
+}
+.do .container h2 {
+  margin-top: 40px;
+}
+.do .container .disc {
+  margin-top: 32px;
+}
+.do .container .disc div {
+  padding: 20px;
+  box-sizing: border-box;
+}
+.do .container .disc div p span {
+  font-size: 42px;
+  font-weight: 500;
+}
+.about_bg {
+  background: url(../images/company.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.about_bg .container {
+  height: 240px;
+}
+.about {
+  margin-top: -100px;
+}
+.about .container {
+  box-shadow: 5px 10px 10px #e0dfdf;
+  background-color: #2c303b;
+}
+.about .container .row {
+  line-height: 32px;
+}
+.about .container .row .left {
+  padding: 40px;
+  background: #ffffff;
+  box-sizing: border-box;
+}
+.about .container .row .right {
+  padding: 0;
+}
+.about .container .row .right .right_t {
+  border-bottom: 1px solid #ffffff;
+  padding: 60px 24px 220px 24px;
+  box-sizing: border-box;
+}
+.about .container .row .right .right_t h1 {
+  color: #ffffff;
+  margin: 20px 0;
+}
+.about .container .row .right .right_t p {
+  color: #ffffff;
+  margin: 0;
+}
+.about .container .row .right .right_t span {
+  width: 100px;
+  height: 2px;
+  display: block;
+  background-color: #ffffff;
+}
+.about .container .row .right .right_b {
+  padding: 24px;
+  box-sizing: border-box;
+}
+.about .container .row .right .right_b img {
+  width: 40px;
+  height: auto;
+  display: inline-block;
+  margin-right: 200px;
+}
+.about .container .row .right .right_b span {
+  color: #ffffff;
+}
+.contact h2 {
+  margin-top: 60px;
+}
+.contact .contact_content {
+  width: 100%;
+  height: 100%;
+}
+.contact .container {
+  border: 1px solid #000;
+  margin-top: 30px;
+  padding: 30px;
+  box-sizing: border-box;
+}
+.contact .container .row div {
+  padding: 20px 20px 20px 110px;
+  box-sizing: border-box;
+}
+.contact .container .row div h2 {
+  margin: 0;
+}
+.contact .container .row div span {
+  width: 100px;
+  height: 2px;
+  background: #000000;
+  display: block;
+  margin: 20px 0;
+}
+.footer {
+  background: url(../images/footer.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  box-sizing: border-box;
+  margin-top: 40px;
+}
+.footer .container {
+  padding: 40px 0;
+}
+.footer .container h1 {
+  color: #ccc;
+  margin-bottom: 12px;
+}
+.footer .container p {
+  color: #ccc;
+}
+.footer .container p span {
+  padding-right: 10px;
+}
+.footer .container .contact {
+  margin: 36px 0;
+}
